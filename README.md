@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <img src="https://4.bp.blogspot.com/-6PIgKSrX0Lw/WEAlUJ6mv4I/AAAAAAAAAMs/zQKpWqwEWnYwNX5AFj0B3w64y1w1y6QXwCLcB/s1600/rorygilmore.png" align="right" style="width: 480px; height: 300px;">
+  <img src="https://4.bp.blogspot.com/-6PIgKSrX0Lw/WEAlUJ6mv4I/AAAAAAAAAMs/zQKpWqwEWnYwNX5AFj0B3w64y1w1y6QXwCLcB/s1600/rorygilmore.png" align="right" style="width: 420px; height: 280px;">
 </div>
 
 ### Oiiii! Sou a Ste ❤️
