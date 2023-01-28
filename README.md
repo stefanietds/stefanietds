@@ -1,12 +1,15 @@
-### Oiiii! Sou a Ste ❤️
+<div style="text-align: center;">
+  <img src="https://4.bp.blogspot.com/-6PIgKSrX0Lw/WEAlUJ6mv4I/AAAAAAAAAMs/zQKpWqwEWnYwNX5AFj0B3w64y1w1y6QXwCLcB/s1600/rorygilmore.png" align="right" style="width: 480px; height: 300px;">
+</div>
 
+### Oiiii! Sou a Ste ❤️
 
 - 🔭 Atualmente sou Estagiária em TI 
 - 📖 Fatec 
 - 🫡 Estudando JAVA
 - ⚡ Fun fact: bookstan, hamster e taylor swift
 
- 
+
 <div style="display: inline_block"><br>
    <img align="center" alt="S-Python" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="S-Csharp" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
