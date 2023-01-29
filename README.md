@@ -22,6 +22,7 @@
   <a href="https://instagram.com/steeetds" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:stefanietavares11@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/stefanie-tavares-bb9665239/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-  
+  <!---- 
+  <a href="" target="_blank" ><img src="https://cloud.githubusercontent.com/assets/8026741/14537703/797fe480-024e-11e6-816a-f9b20a7f7ac6.png" target="_blank" style="width: 60px; height: 30px;"></a> 
+  --->
 </div>
-
