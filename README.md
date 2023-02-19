@@ -4,9 +4,8 @@
 
 ####    Oiiii! Sou a Ste ❤️
 
-- 🔭 Atualmente sou Estagiária em TI 
 - 📖 Fatec 
-- 🫡 Estudando JAVA
+- 🫡 Estudando Python
 - ⚡ Fun fact: bookstan, hamster e taylor swift
 
 
