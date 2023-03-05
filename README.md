@@ -5,7 +5,6 @@
 #### Oiiii! Sou a Ste ❤️
 
 - 📖 Fatec 
-- 🫡 Estudando Python
 - ⚡ Fun fact: bookstan, hamster e taylor swift
 
 <div style="display: inline_block"><br>
