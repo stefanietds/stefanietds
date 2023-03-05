@@ -1,7 +1,8 @@
 <div style="text-align: center;">
   <img src="https://4.bp.blogspot.com/-6PIgKSrX0Lw/WEAlUJ6mv4I/AAAAAAAAAMs/zQKpWqwEWnYwNX5AFj0B3w64y1w1y6QXwCLcB/s1600/rorygilmore.png" align="right" style="width: 50%; height: 40%;">
 </div>
-####    Oiiii! Sou a Ste ❤️
+
+#### Oiiii! Sou a Ste ❤️
 
 - 📖 Fatec 
 - 🫡 Estudando Python
