@@ -5,7 +5,6 @@
 #### Oiiii! Sou a Ste ❤️
 
 - 📖 Fatec 
-- ⚡ Fun fact: bookstan, hamster e taylor swift
 
 <div style="display: inline_block"><br>
   <img align="center" alt="S-Csharp" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
